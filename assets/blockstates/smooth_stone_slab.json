@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "type=bottom,waterlogged=false": {
+      "model": "minecraft:block/vb_light_blue_wool_slab"
+    },
+    "type=bottom,waterlogged=true": {
+      "model": "minecraft:block/vb_light_blue_wool_slab"
+    },
+    "type=top,waterlogged=false": {
+      "model": "minecraft:block/vb_light_blue_wool_slab_top"
+    },
+    "type=top,waterlogged=true": {
+      "model": "minecraft:block/vb_light_blue_wool_slab_top"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/vb_light_blue_wool_slab_double"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/vb_light_blue_wool_slab_double"
+    }
+  }
+}
